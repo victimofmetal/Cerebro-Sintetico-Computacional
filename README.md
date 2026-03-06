@@ -42,7 +42,7 @@ El desarrollo del SCB se apoya en investigaciones de vanguardia:
 
 ### 1. Lectura del Documento Técnico
 Puedes encontrar el análisis completo en formato PDF aquí:
-[📄 Descargar SCB.pdf](AQUÍ_PONES_EL_LINK_A_TU_ARCHIVO)
+[📄 Descargar SCB.pdf](https://github.com/victimofmetal/Cerebro-Sintetico-Computacional/blob/main/SCB.pdf)
 
 ### 2. Contribuciones
 Estamos buscando colaboradores en las áreas de:
